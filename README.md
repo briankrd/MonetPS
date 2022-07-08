@@ -6,7 +6,7 @@ I really wanted to put the code for whoever wanted to do it by themselves but th
 
 ## How to implement MonetPS with MonetPSK
 
-When downloading the komponent from the releases section of this repository, it would be necessary to follow the following steps:
+When downloading the komponent from [releases section](https://github.com/briankrd/MonetPS/releases) of this repository, it would be necessary to follow the following steps:
 
 • Move the MonetPSK file to the "komponents" folder which is inside the "Kustom" folder which by default is on the internal storage of the target device.
 
